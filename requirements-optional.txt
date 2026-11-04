@@ -1,0 +1,11 @@
+# OCR and interactive demo
+easyocr
+gradio
+
+# Exploratory analysis and optional baseline
+scipy
+vaderSentiment
+wordcloud
+xgboost
+
+# Configure PaddleOCR/PaddlePaddle separately if choosing that backend.

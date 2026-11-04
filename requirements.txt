@@ -1,0 +1,16 @@
+# Imported core dependencies; not a tested lockfile.
+torch
+torchvision
+transformers
+peft
+numpy
+pandas
+scikit-learn
+Pillow
+tqdm
+matplotlib
+seaborn
+contractions
+openpyxl
+jupyterlab
+ipykernel

@@ -1,0 +1,31 @@
+# Environments and Python/Jupyter caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Local credentials and editor files
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Datasets, weights, and generated reports
+datasets/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.pkl
+*.joblib
+combined_text_data.csv
+predictions.csv
+figures_full/
+figure_multimodal/
+reports_novel/
+novel_eval_insights/
